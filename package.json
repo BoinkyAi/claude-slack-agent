@@ -1,0 +1,16 @@
+{
+  "name": "claude-slack-agent",
+  "version": "0.1.0",
+  "description": "Slack bot that bridges Slack conversations to the Claude Code CLI.",
+  "license": "MIT",
+  "main": "slack-listener.js",
+  "scripts": {
+    "start": "node slack-listener.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@slack/bolt": "^4.4.0"
+  }
+}
