@@ -16,7 +16,7 @@ A macOS Slack bot that bridges Slack conversations to the [Claude Code CLI](http
 ## Quickstart
 
 ```bash
-git clone https://github.com/highstack-bloop-bot/claude-slack-agent.git
+git clone https://github.com/BoinkyAi/claude-slack-agent.git
 cd claude-slack-agent
 ./setup.sh
 ```
